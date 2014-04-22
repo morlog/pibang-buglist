@@ -1,4 +1,4 @@
 pibang-buglist
 ==============
 
-all da bugs
+Read the text, fill it in, succeed.

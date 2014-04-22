@@ -1,0 +1,34 @@
+=================================
+This is the PiBang Linux Buglist!
+=================================
+
+Please feel free to edit this as the need 
+arrises and send pull-requests to Nathan
+
+---------------------------------
+
+Format:
+
+"(Bug slang name)"
+(Brief description)
+
+(longer description with examples and how to re-create)
+
+(suggested solutions)
+
+---------------------------------
+
+Example:
+
+"Wet boot hang bug 1"
+hangs at boot underwater
+
+If you try to boot the Pi with the board submerged in a swimming pool
+the Pi will consistently hang.
+
+Design waterproof init script, prolly in Haskel
+
+---------------------------------
+
+
+1:
