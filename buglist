@@ -31,4 +31,9 @@ Design waterproof init script, prolly in Haskel
 ---------------------------------
 
 
-1:
+1:"Server fail's to create user"
+Server edition fails to create user on initial boot.
+
+During the initial boot  in the server edition raspi-setup fails to create a user account.
+
+Either remove the option to create a user account from the raspi-setup script or figure out whats causing the issue
